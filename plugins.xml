@@ -2,7 +2,7 @@
 <plugins>
 
   <!-- Plugin 1: DriveTeste -->
-  <pyqgis_plugin name="DriveTeste" version="2.0" plugin_id="111111111">
+  <pyqgis_plugin name="DriveTeste" version="3.0" plugin_id="111111111">
     <description><![CDATA[
       <h2>Análise e Otimização de Drive Teste</h2>
       <p>O <strong>DriveTeste</strong> é um plugin robusto para <strong>análise detalhada e visualização de dados de telecomunicações</strong>. Ele permite a importação de dados de campo para gerar mapas de cobertura, realizar medições de área de serviço e analisar a performance da rede com precisão.</p>
@@ -24,6 +24,7 @@
   </pyqgis_plugin>
 
 </plugins>
+
 
 
 
