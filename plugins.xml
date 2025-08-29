@@ -19,8 +19,9 @@
     <author_name>Mateus Matos</author_name>
     <email>mateus.matos@empresa.com</email>
     <tags>drive test,4g,5g,telecom,análise,otimização,gráfico,network</tags>
-    <icon>https://raw.githubusercontent.com/mateusmatos-create/qgis-plugins/main/DriveTeste/icon.png</icon>
+    <icon>https://raw.githubusercontent.com/mateusmatos-create/qgis-plugins/main/icon.png</icon>
     <download_url>https://raw.githubusercontent.com/mateusmatos-create/qgis-plugins/main/DriveTeste/DriveTeste.zip</download_url>
   </pyqgis_plugin>
 
 </plugins>
+
